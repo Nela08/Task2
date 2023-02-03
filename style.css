@@ -1,0 +1,32 @@
+* {
+  background-color: rgb(204, 225, 236);
+  font-family: open sans, Arial, segoe ui, helvetica neue, Helvetica, sans-serif;
+}
+
+header {
+  margin: 20px;
+  padding-bottom: 5px;
+}
+
+#imagenPortada {
+  width: 103%;
+}
+
+nav {
+  float: right;
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+nav > a {
+  box-sizing: border-box;
+  background: none repeat scroll 0 0 #2f8731;
+  border: 1px solid #2f8731;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 700;
+  margin-left: 2px;
+  padding: 9px 12px;
+  margin-top: 5px;
+}
