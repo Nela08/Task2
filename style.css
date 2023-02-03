@@ -30,3 +30,24 @@ nav > a {
   padding: 9px 12px;
   margin-top: 5px;
 }
+ul > li{
+  font-size: 15px;
+  list-style-position: inside;
+  padding:  0 25px;
+
+}
+table {
+  margin: 2px;;
+}
+table thead {
+  cursor: pointer;
+  background: rgba(0, 0, 0, .2);
+}
+table thead tr th { 
+  font-weight: bold;
+  padding: 10px 20px;
+}
+
+
+
+
